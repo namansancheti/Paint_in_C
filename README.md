@@ -1,2 +1,2 @@
 # Paint in C
-Paint program made in `C` using the TC-Graphics Library, similar to MS-Paint.
+Paint program similar to MS-Paint, made in `C` using the 'TC-Graphics' Library.
